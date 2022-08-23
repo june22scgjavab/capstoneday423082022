@@ -1,0 +1,8 @@
+Important links
+
+https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html
+https://pmd.github.io/latest/pmd_rules_java.html
+https://pmd.github.io/latest/pmd_userdocs_making_rulesets.html
+https://pmd.github.io/latest/pmd_userdocs_tools_maven.html
+https://www.vogella.com/tutorials/Jacoco/article.html
+https://www.eclemma.org/jacoco/trunk/doc/maven.html
